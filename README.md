@@ -1,4 +1,12 @@
-### Hi there 👋
+### How's ìt going? I`m Pedro Schwarz
+
+- 🔭 I’m currently working at **Warren Brasil**
+  - Flutter/iOS
+- 📫 How to reach me:
+  - :email: pedroschawarz97@gmail.com
+  - :telephone_receiver: +55 51 99880-3680
+  - :briefcase: <a href="https://www.linkedin.com/in/pedro-rodrigues-b86a0a174/">Linkedin</a>
+- 😄 Pronouns: He/Him
 
 <!--
 **PedroSchwarz/PedroSchwarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
