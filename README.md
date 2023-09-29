@@ -1,6 +1,6 @@
 ### How's ìt going? I`m Pedro Schwarz
 
-- 🔭 I’m currently working at **Warren Brasil**
+- 🔭 I’m currently working as a Freelancer
   - Flutter/iOS
 - 📫 How to reach me:
   - :email: pedroschawarz97@gmail.com
