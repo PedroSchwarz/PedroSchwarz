@@ -1,4 +1,4 @@
-### How's ìt going? I`m Pedro Schwarz
+### How's it going? I`m Pedro Schwarz
 
 - 🔭 I’m currently working as a Freelancer
   - Flutter/iOS
