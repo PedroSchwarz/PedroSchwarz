@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Freelancer
   - Flutter/iOS
 - 📫 How to reach me:
-  - :email: pedroschawarz97@gmail.com
+  - :email: pedroschwarz1997@hotmail.com
   - :telephone_receiver: +55 51 99880-3680
   - :briefcase: <a href="https://www.linkedin.com/in/pedro-rodrigues-b86a0a174/">Linkedin</a>
 - 😄 Pronouns: He/Him
