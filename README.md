@@ -1,7 +1,6 @@
 ### How's it going? I`m Pedro Schwarz
 
-- 🔭 I’m currently working as a Freelancer
-  - Flutter/iOS
+- 🔭 Senior Mobile Engineer (Flutter, iOS & Android)
 - 📫 How to reach me:
   - :email: pedroschwarz1997@hotmail.com
   - :telephone_receiver: +55 51 99880-3680
